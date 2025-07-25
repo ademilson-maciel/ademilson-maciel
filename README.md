@@ -37,7 +37,14 @@ Sou curioso por novas tecnologias e métodos inovadores e, por isso, estou em co
 <img src="https://files.brandlogos.net/svg/sbXzVXnLZr/microsoft-power-bi-logo-brandlogos.net_rn48iw271.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
+</div>
 
+### **Redes Sociais**
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/ademilson-maciel-a5448a103/">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Linkedin" width="60" style="margin: 5px;">
+  </a>
 </div>
 <!--
 **ademilson-maciel/ademilson-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
