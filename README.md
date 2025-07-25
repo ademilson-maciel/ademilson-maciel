@@ -21,19 +21,19 @@ Sou curioso por novas tecnologias e métodos inovadores e, por isso, estou em co
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/LaTeX.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="60" style="margin: 5px;">
-<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/SQLAlchemy.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/SQLite.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/R-.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="60" style="margin: 5px;">
-<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
 <img src="https://files.brandlogos.net/svg/sbXzVXnLZr/microsoft-power-bi-logo-brandlogos.net_rn48iw271.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
@@ -42,21 +42,8 @@ Sou curioso por novas tecnologias e métodos inovadores e, por isso, estou em co
 ### **Redes Sociais**
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/ademilson-maciel-a5448a103/">
+  <a href="https://www.linkedin.com/in/ademilson-maciel-a5448a103">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Linkedin" width="60" style="margin: 5px;">
   </a>
 </div>
-<!--
-**ademilson-maciel/ademilson-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
