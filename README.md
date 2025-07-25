@@ -12,9 +12,7 @@ Olá, sou economista com especialização em Economia do Meio Ambiente e formaç
 <p align="justify">
 Atuo em soluções baseadas em tecnologia para transformar dados em inteligência estratégica de negócios, aplicando técnicas de ETL, modelagem de dados, relacionamento de tabelas, modelagem estatística e visualização avançada. Tenho sólida experiência no uso de R e Python para coleta, tratamento e análise de dados provenientes de diversas fontes públicas como BACEN, IBGE, IPEA, CONAB, COMEX, NASA (dados climatológicos), entre outras fontes. Também desenvolvo painéis analíticos, conecto diferentes bases de dados e acompanho indicadores econômicos e de mercado para subsidiar decisões com mais precisão e agilidade.
 </p>
-<p align="justify">
-Como profissional neurodivergente (TEA – nível de suporte I), trago um olhar apurado, sistemático e atento aos detalhes, o que me permite reconhecer padrões, estruturar informações complexas e propor soluções analíticas eficientes.
-</p>
+
 <p align="justify">
 Sou curioso por novas tecnologias e métodos inovadores e, por isso, estou em constante evolução, buscando unir análise econômica, ciência de dados e pensamento computacional para gerar valor e impulsionar a transformação digital nos ambientes de negócios em que atuo.
 </p>
@@ -36,9 +34,9 @@ Sou curioso por novas tecnologias e métodos inovadores e, por isso, estou em co
 <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="60" style="margin: 5px;">
 <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="60" style="margin: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg" width="60" style="margin: 5px;">
-<img src="" width="60" style="margin: 5px;">
-<img src="" width="60" style="margin: 5px;">
+<img src="https://files.brandlogos.net/svg/sbXzVXnLZr/microsoft-power-bi-logo-brandlogos.net_rn48iw271.svg" width="60" style="margin: 5px;">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
 
 </div>
 <!--
