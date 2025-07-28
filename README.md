@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-    Olá, Seja bem-vindo!
+    Olá! Seja bem-vindo!
   </p>
 </h1>
 
