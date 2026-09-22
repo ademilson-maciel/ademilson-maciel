@@ -6,7 +6,7 @@
 
 ### **Sobre mim**  
 <p align="justify">
-Olá, sou economista com especialização em Economia do Meio Ambiente e formação em andamento em Ciência de Dados e Análise e Desenvolvimento de Sistemas ambas pela Universidade de Marília/SP. Minha trajetória profissional é marcada pela integração entre áreas financeiras, orçamentárias e tecnológicas, com foco em inovação orientada por dados.
+Olá, sou economista com especialização em Economia do Meio Ambiente, Cientista de Dados e Tecnólogo em Análise e Desenvolvimento de Sistemas ambas pela Universidade de Marília/SP. Atualmente, cursando Especialização em Engenharia de Dados pela PUC/Minas.
 </p>
 
 <p align="justify">
